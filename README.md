@@ -14,7 +14,7 @@
 ## 🧕🏻 About Me
 
 🎓 **D3 Informatics Engineering** student at *Politeknik Negeri Batam*  
-💻 Specializing in **Web Development**, **IoT Projects**, and **UI/UX Design**  
+💻 Specializing in **Web Development** and **UI/UX Design**  
 🤝 Open for collaboration on **web systems** or **smart tech solutions**  
 💡 Believes technology should be *functional*, *elegant*, and *accessible*  
 📍 Based in Batam, Indonesia  
